@@ -2,6 +2,11 @@
 This integration allows you to view Gym utilization from Home Assistant
 
 ## Installation
+[HACS](https://hacs.xyz/):
+- [Add this repository as a custom repository in HACS](https://hacs.xyz/docs/faq/custom_repositories/)
+- Restart HomeAssistant
+
+Manual:
 - Copy `custom_components/fitx_util` to your home assistant config `<config>/custom_components`
 - Restart HomeAssistant
 
