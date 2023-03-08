@@ -13,5 +13,6 @@
   "requirements": [],
   "ssdp": [],
   "zeroconf": [],
-  "integration_type": "device"
+  "integration_type": "device",
+  "version": "1.0.2"
 }
