@@ -1,4 +1,5 @@
 {
+  "name": "FitX Utilization",
   "domain": "fitx_util",
   "codeowners": [
     "@dorian-K"
