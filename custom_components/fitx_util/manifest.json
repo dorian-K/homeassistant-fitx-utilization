@@ -1,18 +1,18 @@
 {
-  "name": "FitX Utilization",
   "domain": "fitx_util",
+  "name": "FitX Utilization",
   "codeowners": [
     "@dorian-K"
   ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/dorian-K/homeassistant-fitx-utilization",
-  "issue_tracker": "https://github.com/dorian-K/homeassistant-fitx-utilization/issues",
   "homekit": {},
+  "integration_type": "device",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/dorian-K/homeassistant-fitx-utilization/issues",
   "requirements": [],
   "ssdp": [],
-  "zeroconf": [],
-  "integration_type": "device",
-  "version": "1.0.2"
+  "version": "1.0.2",
+  "zeroconf": []
 }
