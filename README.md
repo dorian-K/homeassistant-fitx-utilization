@@ -17,3 +17,5 @@ Manual:
 - Enter your account credentials and your studio identification
 ###### The highlighted string is your studio identification:
 ![image](https://user-images.githubusercontent.com/62394594/223734775-d4e0ffc0-3094-4eff-90ae-a0602dde630e.png)
+
+![image](https://user-images.githubusercontent.com/62394594/224480463-48b2c048-d38e-407e-afce-fce2145119b7.png)
